@@ -1,0 +1,52 @@
+_repo: The-book-of-garden-design_74972
+_version: 0.0.1
+contributor:
+  photographer:
+    agent_name: Good, Frank Mason
+    aliases:
+    - Good, Frank M.
+    - Good, F. Mason
+    birthdate: 1839
+    deathdate: 1928
+    gutenberg_agent_id: '57755'
+    url: http://www.gutenberg.org/2009/agents/57755
+creator:
+  author:
+    agent_name: Thonger, Charles
+    alias: Thonger, Charles Eric Thurland
+    birthdate: 1882
+    deathdate: 1954
+    gutenberg_agent_id: '57754'
+    url: http://www.gutenberg.org/2009/agents/57754
+  editor:
+    agent_name: Roberts, Harry
+    birthdate: 1871
+    deathdate: 1946
+    gutenberg_agent_id: '44951'
+    url: http://www.gutenberg.org/2009/agents/44951
+description: ''
+gutenberg_issued: '2024-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74972'
+  lccn: 05040028
+language: en
+pgterms:marc904: https://archive.org/details/cu31924002832230/mode/2up
+pgterms:marc905: 20240209133425thonger
+pgterms:marc906: '1905'
+pgterms:marc907: GB
+production_note: Susan E., A Marshall, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJohn Lane: The Bodley Head, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Handbooks of practical gardening, 25.
+subjects:
+- !lcsh 'Gardening'
+- !lcsh 'Landscape gardening'
+- !lcc 'SB'
+- GITenberg
+title: The book of garden design
+url: http://www.gutenberg.org/ebooks/74972
