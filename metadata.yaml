@@ -10,6 +10,9 @@ contributor:
     deathdate: 1928
     gutenberg_agent_id: '57755'
     url: http://www.gutenberg.org/2009/agents/57755
+covers:
+- cover_type: archival
+  image_path: 74972-h/images/cover.jpg
 creator:
   author:
     agent_name: Thonger, Charles
@@ -25,6 +28,8 @@ creator:
     gutenberg_agent_id: '44951'
     url: http://www.gutenberg.org/2009/agents/44951
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74972#The-book-of-garden-design
 gutenberg_issued: '2024-12-24'
 gutenberg_type: Text
 identifiers:
